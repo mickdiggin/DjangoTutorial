@@ -1,3 +1,7 @@
+# INF601 - Advanced Programming in Python
+# Michael DeGan
+# Mini Project 4
+
 from django.contrib import admin
 
 from .models import Question, Choice

@@ -1,3 +1,7 @@
+# INF601 - Advanced Programming in Python
+# Michael DeGan
+# Mini Project 4
+
 from django.db import models
 from django.contrib import admin
 from django.utils import timezone
